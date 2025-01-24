@@ -98,4 +98,7 @@ This project is aimed at exploring actionable insights for Thera Bank's personal
 ---
 
 ### **Contact**
-If you have any questions or suggestions, feel free to reach out via email: [your-email@example.com](mailto:your-email@example.com).
+
+- **Email:** [dacha.ruthvik@gmail.com](mailto:dacha.ruthvik@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/ruthvikdacha](https://linkedin.com/in/ruthvikdacha)  
+- **GitHub:** [github.com/RuthvikDacha](https://github.com/RuthvikDacha)  
